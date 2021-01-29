@@ -20,7 +20,7 @@ jobs:
         stale-pr-label: "Stale"
         exempt-pr-labels: "Keep"
         # Let's start by setting this pretty high, we can bring this down once we get the number of PRs and Issues down.
-        days-before-stale: 364
+        days-before-stale: 363
         days-before-close: 1
         ascending: true
         operations-per-run: 500
